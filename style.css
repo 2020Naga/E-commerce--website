@@ -143,19 +143,19 @@ nav {
 }
 
 #jacket img:hover {
-    content: url(/Images/fashion/j2.jpg);
+    content: url(Images/fashion/j2.jpg);
 }
 
 #shoe img:hover {
-    content: url(/Images/fashion/s2.jpg);
+    content: url(Images/fashion/s2.jpg);
 }
 
 #shirt img:hover {
-    content: url(/Images/fashion/shirt2.jpg);
+    content: url(Images/fashion/shirt2.jpg);
 }
 
 #electronics img:hover {
-    content: url(/Images/Electronics/l2.webp);
+    content: url(Images/Electronics/l2.webp);
 }
 
 footer {
